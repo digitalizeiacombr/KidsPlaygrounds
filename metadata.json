@@ -1,0 +1,8 @@
+{
+  "name": "Remix KidsPlaygrounds",
+  "description": "Landing page for KidsPlaygrounds - Reformas, manutenção e fabricação de brinquedões.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
